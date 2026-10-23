@@ -1,0 +1,6 @@
+{
+  "name": "CognitiveForge - AI Learning Content Generator & Evaluator",
+  "description": "Enterprise-grade RAG learning content generator, automated pedagogical quality evaluator, multi-agent draft-critique-revise workflow, code test runner, and regression bench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
